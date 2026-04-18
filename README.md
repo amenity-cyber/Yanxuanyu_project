@@ -23,8 +23,7 @@ pip install -r requirements.txt
 ```
 
 ## 运行截图
-<img width="1860" height="938" alt="f1bc936a-a8e9-49ca-b18f-57e3efda620c" src="https://github.com/user-attachments/assets/227f0931-1e6c-457d-a84a-
-846d2470e151" />
+<img width="1860" height="938" alt="d0268bfa42f1217d203d66b87caffa5f" src="https://github.com/user-attachments/assets/fbac1dfe-c3a0-4d51-ab01-7d44e79d4d80" />
 图1 选择学生
 <img width="1860" height="938" alt="242d77f1116182def47420627256bdf7" src="https://github.com/user-attachments/assets/26ed2806-b28f-467a-a189-dafd670a8401" />
 图2 选择课程
