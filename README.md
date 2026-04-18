@@ -1,6 +1,6 @@
 # Yanxuanyu_project
 上传前后端交互网站
-学生选课系统：基于 Flask + Vue + SQLite 的学生选课管理系统
+基于 Flask + Vue + MySQL 的学生选课管理系统
 
 1.功能特点
 
@@ -12,9 +12,9 @@
 
 2.技术栈
 
-后端: Flask 2.0.3, SQLite  
-前端: Vue.js 2, Axios  
-样式: 原生CSS
+后端：Flask 2.0.3, MySQL
+前端：Vue.js 2, Axios
+样式：原生CSS
 
 3.安装依赖
 ```bash
