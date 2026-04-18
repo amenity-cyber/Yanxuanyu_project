@@ -1,4 +1,4 @@
-<img width="1860" height="938" alt="f1bc936a-a8e9-49ca-b18f-57e3efda620c" src="https://github.com/user-attachments/assets/227f0931-1e6c-457d-a84a-846d2470e151" /># Yanxuanyu_project
+# Yanxuanyu_project
 上传前后端交互网站
 基于 Flask + Vue + MySQL 的学生选课管理系统
 
@@ -20,14 +20,15 @@
 ```bash
 cd backend
 pip install -r requirements.txt
-
+```
 
 ## 运行截图
-
-![选择学生](screenshots/select-student.png)
-
-![选择课程](screenshots/select-course.png)
-
-![退选课程](screenshots/drop-course.png)
-
-![退课成功](screenshots/drop-success.png)
+<img width="1860" height="938" alt="f1bc936a-a8e9-49ca-b18f-57e3efda620c" src="https://github.com/user-attachments/assets/227f0931-1e6c-457d-a84a-
+846d2470e151" />
+图1 选择学生
+<img width="1860" height="938" alt="242d77f1116182def47420627256bdf7" src="https://github.com/user-attachments/assets/26ed2806-b28f-467a-a189-dafd670a8401" />
+图2 选择课程
+<img width="1860" height="938" alt="7ed0edcba98392c8b778a02d303f896f" src="https://github.com/user-attachments/assets/5d2de80c-6c7c-4612-a1f6-2588ca46ba44" />
+图3 退选课程
+<img width="1860" height="938" alt="d3ef00e07a0a33e1765f9b7f06016867" src="https://github.com/user-attachments/assets/de80b912-1c7f-4dab-895d-892f0f734cc8" />
+图4 退课成功
